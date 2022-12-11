@@ -1,44 +1,46 @@
-[
-    {
-        "id": 1,
-        "href": "/",
-        "title": "Ana Sayfa",
-        "subtitles": [],
-    },
+{
+  "routes": [
         {
-        "id": 2,
-        "href": "/about",
-        "title": "Hakkımızda",
-        "subtitles": ["/directorsBoard", "/administrativeBoard", "/supervisoryBoard", "/advisoryBoard", "/mrsInMedia"],
-    },
-        {
-        "id": 3,
-        "href": "/announcements",
-        "title": "Duyurular",
-        "subtitles": [],
-    },
-        {
-        "id": 4,
-        "href": "/events",
-        "title": "Etkinliklerimiz",
-        "subtitles": ["/imrd", "/robotalks", "/workshopOfTheFuture", "/missionUnderground"],
-    },
-        {
-        "id": 5,
-        "href": "/teams",
-        "title": "Takımlarımız",
-        "subtitles": ["/cleanEnergy", "/meturone", "/finance", "/organization", "/robotics", "/introduction", "/metuor", "/formulaRacing"],
-    },
-        {
-        "id": 6,
-        "href": "/sponsors",
-        "title": "Sponsorlarımız",
-        "subtitles": [],
-    },
-        {
-        "id": 7,
-        "href": "/contact",
-        "title": "İletişim",
-        "subtitles": [],
-    },
-]
+            "id": 1,
+            "href": "/",
+            "title": "Ana Sayfa",
+            "subtitles": [],
+        },
+            {
+            "id": 2,
+            "href": "/about",
+            "title": "Hakkımızda",
+            "subtitles": ["/directorsBoard", "/administrativeBoard", "/supervisoryBoard", "/advisoryBoard", "/mrsInMedia"],
+        },
+            {
+            "id": 3,
+            "href": "/announcements",
+            "title": "Duyurular",
+            "subtitles": [],
+        },
+            {
+            "id": 4,
+            "href": "/events",
+            "title": "Etkinliklerimiz",
+            "subtitles": ["/imrd", "/robotalks", "/workshopOfTheFuture", "/missionUnderground"],
+        },
+            {
+            "id": 5,
+            "href": "/teams",
+            "title": "Takımlarımız",
+            "subtitles": ["/cleanEnergy", "/meturone", "/finance", "/organization", "/robotics", "/introduction", "/metuor", "/formulaRacing"],
+        },
+            {
+            "id": 6,
+            "href": "/sponsors",
+            "title": "Sponsorlarımız",
+            "subtitles": [],
+        },
+            {
+            "id": 7,
+            "href": "/contact",
+            "title": "İletişim",
+            "subtitles": [],
+        },
+    ]
+}
